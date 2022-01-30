@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Newsletter/static/css/main.cc8c5890.css",
+    "main.js": "/Newsletter/static/js/main.74e6b236.js",
+    "static/media/apple.png": "/Newsletter/static/media/apple.07d4bd7ffef295af3ca2.png",
+    "static/media/google.png": "/Newsletter/static/media/google.d3d7d0b04836b3f6776e.png",
+    "index.html": "/Newsletter/index.html",
+    "main.cc8c5890.css.map": "/Newsletter/static/css/main.cc8c5890.css.map",
+    "main.74e6b236.js.map": "/Newsletter/static/js/main.74e6b236.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc8c5890.css",
+    "static/js/main.74e6b236.js"
+  ]
+}
